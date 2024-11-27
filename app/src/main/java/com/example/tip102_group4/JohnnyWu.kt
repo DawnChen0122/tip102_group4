@@ -1,4 +1,5 @@
 package com.example.tip102_group4
 
-class JohnnyWu {
+fun main(){
+    println("I'm Johnny.")
 }
